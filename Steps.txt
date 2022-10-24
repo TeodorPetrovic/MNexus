@@ -1,0 +1,4 @@
+1. Create index.php
+Napravi novu Clasu tipa Application i u njega smesti objekte tipa ruteri itd itd
+
+2. Napravi Core folder koji ce sadrzati sve podatke koje ce se koristiti u ovoj klasi
